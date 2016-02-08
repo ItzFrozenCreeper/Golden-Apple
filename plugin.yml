@@ -1,0 +1,5 @@
+name: Golden-Apple
+main: ga\Main
+version: 1.0
+author: FrozenCreeper
+api: [1.13.0]
